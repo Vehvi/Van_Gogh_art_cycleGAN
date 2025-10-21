@@ -1,1 +1,0 @@
-# CycleGAN User Interface here
