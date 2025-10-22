@@ -18,5 +18,6 @@ This project implements a cycleGAN model that tries to transform city images to 
 
 # **Datasets**
 https://www.kaggle.com/datasets/ipythonx/van-gogh-paintings
+
 https://www.kaggle.com/datasets/heonh0/daynight-cityview?select=day
 
