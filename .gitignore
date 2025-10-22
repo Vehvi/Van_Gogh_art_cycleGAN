@@ -1,3 +1,4 @@
 datasets/cityData/
 datasets/vanGogh/
 venv/
+__pycache__/
