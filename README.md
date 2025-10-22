@@ -16,6 +16,6 @@ This project implements a cycleGAN model that tries to transform city images to 
 
 ├─ testNets.py       # Test for nets
 
-├─
+├─ requirements.txt 
 
 └─ README.md
