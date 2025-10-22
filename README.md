@@ -1,6 +1,6 @@
 # **CycleGAN: City -> Van Gogh Style City**
 
-This project implements a cycleGAN model that tries to transform city images to Van Gogh style paintins of the city. The project uses PyTorch and the official cycleGAN implementation as a base (GitHub - junyanz/pytorch-CycleGAN-and-pix2pix: Image-to-Image Translation in PyTorch).
+This project implements a cycleGAN model that tries to transform city images to Van Gogh style paintings of the city. The project uses PyTorch and the official cycleGAN implementation as a base (GitHub - junyanz/pytorch-CycleGAN-and-pix2pix: Image-to-Image Translation in PyTorch).
 
 # **Prjoject Structure**
 
