@@ -4,5 +4,8 @@ venv/
 __pycache__/
 checkpoints/
 results_test_epochs/
-checkpoints/G_AB_epoch*.pth
-checkpoints/G_BA_epoch*.pth
+# Ignore everything in checkpoints folder
+checkpoints/*
+# But not this specific file
+!checkpoints/
+!checkpoints/G_AB_epoch100.pth
