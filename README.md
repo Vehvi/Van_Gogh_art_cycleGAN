@@ -24,4 +24,11 @@ https://www.kaggle.com/datasets/ipythonx/van-gogh-paintings
 
 https://www.kaggle.com/datasets/heonh0/daynight-cityview?select=day
 
+**Test images**
+https://commons.wikimedia.org/wiki/File:Kuopio_Town_Hall_2.jpg
+https://commons.wikimedia.org/wiki/File:Kuopio_Market_Hall_2020.jpg
+https://commons.wikimedia.org/wiki/File:Puijo_tower.jpg
+
 # **Transformation Results**
+![Original](datasets/ownImages/Kuopio_Town_Hall_2.jpg)
+![Transformed](results_test/fake_0001.png)
