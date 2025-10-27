@@ -11,7 +11,7 @@ def get_dataloaders(
     root_dir="datasets",
     domainA="cityData", # Domain A folder name
     domainB="vanGogh", # Domain B folder name
-    img_size=128,
+    img_size=256,
     batch_size=1,
     num_workers=2,
     shuffle=True

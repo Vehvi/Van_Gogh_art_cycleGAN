@@ -2,3 +2,7 @@ datasets/cityData/
 datasets/vanGogh/
 venv/
 __pycache__/
+checkpoints/
+results_test_epochs/
+checkpoints/G_AB_epoch*.pth
+checkpoints/G_BA_epoch*.pth
