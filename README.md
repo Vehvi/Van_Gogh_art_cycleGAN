@@ -7,11 +7,14 @@ This project implements a cycleGAN model that tries to transform city images to 
 
 ```
 ├─ datasets/         # Datasets (only test data)
+├─ checkpoints/      # Only the best checkpoint (.pth)
 ├─ nets.py           # Generator and Discriminator nets
 ├─ train.py          # Training loop
-├─ test.py           # Image transformation with the trained model
-├─ testData.py       # Test for data
-├─ testNets.py       # Test for nets
+├─ test.py           # Tests the trained model with test data
+├─ test2.py          # Script for generating training progress images
+├─ testData.py       # Test for data.py
+├─ testNets.py       # Test for nets.py
+├─ testCuda.py       # Test for cuda
 ├─ requirements.txt 
 └─ README.md
 ```
