@@ -41,7 +41,7 @@ https://commons.wikimedia.org/wiki/File:Puijo_tower.jpg
 
 **Transformed**
 
-![Transformed](results_test/fake_0001.png)
+![Transformed](results_test/fake_0002.png)
 
 **Original**
 
@@ -49,7 +49,8 @@ https://commons.wikimedia.org/wiki/File:Puijo_tower.jpg
 
 **Transformed**
 
-![Transformed](results_test/fake_0002.png)
+![Transformed](results_test/fake_0001.png)
+
 
 **Original**
 
